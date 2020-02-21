@@ -6535,11 +6535,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Development\\gradebook\\test\\Gradebook.Tests\\GradeBook.Tests.csproj",
+      "projectUniqueName": "C:\\Development\\gradebook\\test\\Gradebook.Tests\\GradeBook.Tests.csproj",
       "projectName": "GradeBook.Tests",
-      "projectPath": "c:\\Development\\gradebook\\test\\Gradebook.Tests\\GradeBook.Tests.csproj",
+      "projectPath": "C:\\Development\\gradebook\\test\\Gradebook.Tests\\GradeBook.Tests.csproj",
       "packagesPath": "C:\\Users\\Anna Burley\\.nuget\\packages\\",
-      "outputPath": "c:\\Development\\gradebook\\test\\Gradebook.Tests\\obj\\",
+      "outputPath": "C:\\Development\\gradebook\\test\\Gradebook.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6559,8 +6559,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "c:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
-              "projectPath": "c:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj"
+            "C:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj": {
+              "projectPath": "C:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj"
             }
           }
         }
