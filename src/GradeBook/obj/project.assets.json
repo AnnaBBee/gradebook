@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Development\\gradebook\\src\\Gradebook\\Gradebook.csproj",
-      "projectName": "Gradebook",
-      "projectPath": "C:\\Development\\gradebook\\src\\Gradebook\\Gradebook.csproj",
+      "projectUniqueName": "c:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj",
+      "projectName": "GradeBook",
+      "projectPath": "c:\\Development\\gradebook\\src\\GradeBook\\GradeBook.csproj",
       "packagesPath": "C:\\Users\\Anna Burley\\.nuget\\packages\\",
-      "outputPath": "C:\\Development\\gradebook\\src\\Gradebook\\obj\\",
+      "outputPath": "c:\\Development\\gradebook\\src\\GradeBook\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
